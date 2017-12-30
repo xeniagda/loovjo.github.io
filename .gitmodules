@@ -1,0 +1,3 @@
+[submodule "rougelike"]
+	path = rougelike
+	url = https://github.com/loovjo/rougelike.git
