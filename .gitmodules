@@ -1,3 +1,6 @@
 [submodule "rougelike"]
 	path = rougelike
 	url = https://github.com/loovjo/rougelike.git
+[submodule "tri-2048"]
+	path = tri-2048
+	url = https://github.com/loovjo/tri-2048.git
